@@ -1,0 +1,28 @@
+body {
+  background-color: #f2f9fd;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#newMovie {
+	width: 20%;
+}
+
+#movieButton {
+	padding-left: 10%;
+	padding-top: 5%
+}
+
+#movieList {
+	padding-left: 5%;
+	width: 50%;
+
+}
+
+#movie {
+	border: 2px solid black
+}
+
+
+h1 {
+	padding-left: 5%
+}
